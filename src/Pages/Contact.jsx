@@ -8,9 +8,9 @@ const Contact = () => {
     
     <h1 className="text-2xl font-bold text-red-500 mb-6">Contact Me</h1>
 
-    <p className="text-gray-400">📧 example@gmail.com</p>
-    <p className="text-gray-400">📘 facebook.com/example</p>
-    <p className="text-gray-400">📸 instagram.com/example</p>
+    <p className="text-gray-400">📧 prabirrahman1@gmail.com</p>
+    <p className="text-gray-400">📘 facebook.com/prabir</p>
+    <p className="text-gray-400">📸 instagram.com/prab1rr</p>
 
     <button className="mt-5 px-4 py-2 rounded-lg bg-red-600 hover:bg-red-700 transition">
       Message Me
